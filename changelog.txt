@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 23OCT2024
+  Changes:
+    - added support for Facotrio 2.0
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 09JUN2023
+  Changes:
+    - added new font "atkinson hyperlegible"
+    - updated mod description
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 13MAR2022
+  Changes:
+    - fixed error when using wingdings font
+    - removed an unused font file
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 13MAR2022
+  Changes:
+    - initial release on the mod portal

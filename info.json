@@ -1,0 +1,13 @@
+{
+  "name": "OpenDyslexic_font",
+  "version": "0.0.1",
+  "title": "OpenDyslexic Font",
+  "author": "CosmicWolf",
+  "contact": "",
+  "homepage": "",
+  "description": "Changes the game to work with the OpenDyslexic, a dyslexic friendly font.\nThank you asher_sky for the more fonts mod I used as a base for this one.\n\nFor all the fellow dyswhatevers to help find the mod:\ndislexic, opendislexic, disletic, opendisletic, dyslexic, opendyslexic, dysletic, opendysletic, dyscalculia, disability",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base"
+  ]
+}

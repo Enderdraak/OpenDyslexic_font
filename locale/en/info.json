@@ -1,0 +1,11 @@
+{
+  "language-name": "English",
+  "font": {
+    "OpenDyslexic-Regular": [
+      "__OpenDyslexic_font__/opendyslexic-0.91.12/compiled/OpenDyslexic-Regular.otf"
+    ],
+    "OpenDyslexic-Bold": [
+      "__OpenDyslexic_font__/opendyslexic-0.91.12/compiled/OpenDyslexic-Bold.otf"
+    ]
+  }
+}
